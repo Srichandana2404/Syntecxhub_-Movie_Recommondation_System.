@@ -1,6 +1,8 @@
 # Syntecxhub_-Movie_Recommondation_System.
 # 🎬 Movie Recommendation System
 
+Dataset: https://drive.google.com/file/d/1LTqUF8b1ZUuF8a5ELyLYL7fktrAN4GpI/view?usp=sharing
+
 This project implements a Content-Based Movie Recommendation System using TF-IDF Vectorization and Cosine Similarity. The system recommends movies similar to a given movie based on its genre and overview.
 
 ## 📌 Project Overview
